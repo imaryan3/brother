@@ -1,0 +1,955 @@
+1.Admin login is possible
+
+Only in mobile app
+Both mobile app and web portal
+only in web portal
+
+=> 1.Both mobile app and web portal , only in web portal
+
+2.Which of the following information is not required for the first time login in mobile application?
+
+Employee Code
+Email ID
+Mobile Number
+Company Logo
+Company Code
+
+=>2.Company Logo
+
+3.Which of the following HR tasks can be managed in factoHR?
+
+Asset Management
+Letter Management
+Document Management
+All of the Above
+
+=>3.All of the above
+
+4.Screen "Create letter/form" is used to
+
+Create/upload a letter format
+Generate letter for an employee
+Both a & b
+
+=> 4.Both a & b
+
+5.In Asset Management, which of the following Asset Status is available?
+
+Assigned
+Returned
+Lost
+All of the Above
+
+=>5.All of the Above
+
+6.In which report, can we find details of Temporary assets are returned or not?
+
+Assets Stock Report
+Assets Expiry Report
+
+=>6.Assets Stock Report(p)
+
+7.How can we assign assets to multiple employees?
+Through Manual Entry
+Bulk Upload via Template
+Both A & B
+None of the Above
+=>7.Both A & B(p)
+8.For employees Attendance punch & default Overtime can be setup from :
+Organization Info.
+Attendance Info
+Other details
+Employee Identity
+Other:
+ 	=>8.Attendance Info
+
+9.Which statutory deduction is dependent with Employee/Company Address?
+Provident Fund
+Professional Tax
+Statutory Bonus
+Gratuity
+=>9.Professional Tax
+
+10.Maximum, how many Emergency contact details can be added?
+1
+2
+3
+4
+=>10.2
+
+11.In Document Management, documents can be stored related to?
+Company-related
+Employee-related
+Dependant-related
+All of the Above
+=>11.All of the Above
+
+12.In which screen, documents can be uploaded?
+Document Entry
+Document Detail
+Document Type
+None of the above
+=>12.Document Entry
+
+13.What happens when a Document validity is over or has expired?
+
+Email notification will be sent
+Document will be auto-deleted from system
+Salary cannot be processed for that employee
+Employee will not be able to login via App
+=>13.Email notification will be sent
+
+14.For Letter configuration, template is to be uploaded in which file format?
+PDF
+Word
+Excel
+JPEG
+=>14.Word
+
+15.How to generate letters in Bulk?
+Via Import Excel option
+Via Generate Bulk option
+Define Organization chart
+=>15.Via Generate Bulk option
+
+16.Which field is mandatory in the PF&ESIC detail screen else entry will not reflect in the ECR file?
+ABRY scheme type
+UAN number
+VPF
+All of the above
+=>16.simple diagram that shows how a company is set up, including departments, employee roles, and who reports to whom.
+=>17.UAN number
+
+18."Document expiry email notification" cannot be utilised for
+Driving License
+Aadhar card
+Visa
+Passport
+=>18.Aadhar card
+
+19.Letter number format can be predefined?
+Yes, with Prefix & Suffix
+No, it can only be auto-generated
+=>19.Yes, with Prefix & Suffix
+
+20.From which, can we add Exit clearance steps?
+Create Clearance Steps
+Resignation screen
+Task Master
+Master Settings
+=>20.Master Settings , Task Master
+
+21.Which of the following statement is False?
+
+In factoHR Mobile App, the generated letters can be preview/downloaded.
+factoHR allows HR to generate letter for employee who is not enrolled in the system.
+factoHR allows to also include manual/external information in letters.
+factoHR eases the process of the HR by sending generated letter to Employee’s mailbox.
+=>21.factoHR allows HR to generate letter for employee who is not enrolled in the system.
+
+
+22.In which field, the asset manager can insert the penalty amount when an asset is damaged?
+Lost Unit
+Return Unit
+Recovery Amount
+None of the above
+=>22.Recovery Amount
+
+23.From which screen, an Employee can be enrolled in factoHR?
+Employee Generate
+Employee Create
+Employee Master
+Employee Setup
+=>23.Employee Master
+
+24.Who can update the status of the Exit clearance step/s?
+Anyone
+Reporting Manager
+Approving Manager
+Employee assigned for completion responsibility
+=>24.Employee assigned for completion responsibility
+25.Green colour in the search tab used for employee search indicates
+Left employees
+Active employees
+Both active and Left employees
+=>25.Active employees
+
+26.From which screen, we can manually upload punch records via excel into the factoHR?
+Terminal setup
+Online Attendance
+Manual process attendance
+Attendance Correction
+=>26.Manual Process Attendance
+
+27.From which screen, we can alteration the punch records from factoHR?
+Manual process attendance
+Attendance Correction
+Terminal Setup
+Online Attendance
+=>27.Attendance Correction
+
+28.Which of the following is the default password format for ESS login?
+DOB (DDMMMYY)
+DOB (DDMMYYYY)
+DOB (DDMMMYYYY)
+None of the above
+=>28.DOB (DDMMYYYY)
+
+29.Company Logo can be updated from
+Configuration Wizard
+Company Detail
+Company Information
+Any of these
+=>29.Company Information
+
+30.From Admin login, from which screen, password can be reset for an employee?
+ESS option
+Employee Master
+Change Password
+Company Information
+=>30.ESS option
+
+31.Which of the following is not a Statutory Deduction salary component?
+Basic + DA
+Provident Fund
+Labour Welfare Fund
+Gratuity
+=>31.Basic + DA
+
+32.Which of the following is a Variable Earning salary component?
+Overtime
+Special Allowance
+HRA
+Provident Fund
+=>32.Overtime
+
+
+
+33.What is the maximum limit to assign managers for an employee?
+1
+2
+3
+4
+=>33.2
+
+34.Red colour in the search tab used for employee search indicates
+Both Active and Left employees
+Left employees
+Active employees
+=>34.Left employees
+
+35.Which report is used to check the complete information of an employee?
+Employee Role Report
+Employee Identity Report
+Employee Detail Report
+None of the above
+=>35.Employee Detail Report
+
+36.What will be the Day status, when an employee has missed the punch?
+MSP
+Absent
+Half Day
+Full Day
+=>36.MSP
+
+37.In Overtime policy, which following exceptional rule can be configured?  
+
+Calculate overtime if the employee arrive in wrong / unplanned shift for the day
+Deduct personal break duration from overtime
+Overtime cross check with actual work duration
+All of the above
+=>37.All of the above
+
+38.In a shift of 9 to 17 with late grace of 5 mins, what will be the Late minutes when Punch in is at 09:02?
+0
+2
+5
+None of the above
+=>38.0
+
+39.Which of the following report shows Geo-punch location?
+Location report
+Punch report
+InOut Activity report
+InOut Summary report
+=>39.InOut Activity report
+
+40.In which screen, we can configure policy for Late coming and early coming treatment ?
+Manage work schedule
+Manage Shift
+Manage Leave Policy
+Manage Attendance policy
+=>40.Manage Attendance Policy
+
+41.Which of the following is a not type of shift?
+Time-based Shift
+Auto Shift
+Flexi Shift
+Dayname wise rotation
+=>41.Dayname wise rotation	
+
+42.From which screen, we can do the missed punch application?
+Attendance Correction
+Attendance regularization
+Submit Attendance
+None of the above
+=>42.Attendance Regularization
+
+43.With reference to Attendance policy, which of the following statement is correct for Gross Working Hours?
+Include the lunch break duration
+Exclude the lunch break duration
+Include the personal & lunch break duration
+Exclude the personal & lunch break duration
+=>43.Exclude the personal & lunch break duration
+
+44.In which screen, we can define Grace Start and Grace End time?
+Manage Attendance Policy
+Manage Shift
+Manage Work Schedule
+Attendance Regularization
+=>44.Manage Shift
+
+45.In which screen, we can manually update the balance of leave?
+Leave Year Closing Balance
+Leave Opening balance
+Assign Leave Balance
+None of the Above
+=>45.Leave Opening Balance
+
+46.What is the use of the leave closing year?
+To manually upload leave balance
+To carry forward balance to next year
+=>46.to carry forward balance to the next year
+
+47.A mining company maintains manual register for attendance records. How do they upload attendance timings to factoHR?
+Via Manual Process Attendance screen
+Via Manage Attendance Policy screen
+Via Manage Work Schedule
+All the above
+=>47.via Manual Process Attendance
+
+48.From which screen, we can set IP based restriction for online attendance?
+Terminal setup
+Employee Master
+ESS option
+None of the Above
+=>48.ESS Option
+
+
+49.Which of the following rotation pattern is not available?
+Day Name wise
+Weekly
+Week and Day Name wise
+Fortnightly
+=>49. Fortnightly
+
+50.What is minimum radius required to create a GeoFence?
+25
+50
+75
+100
+=>50.25
+
+51.GeoFence can be defined in which shape?
+Circle
+Polygon
+Square
+All of the above
+=>51.All of the above
+
+52.At max, How many Geo Fences can be assigned to an employee
+1
+2
+3
+No Limit
+=>52.No Limit
+
+53.Chatbot uses for 
+=>53.FactoBot is an HR chatbot that helps employees quickly access leave balances, 	attendance status, salary slips, and reports through simple chat commands.
+
+54.Mode of Time-sheet entry can be :
+Hourly based
+Time Based
+A and B both
+=>54.checkbox all 3
+
+55."Online attendance" feature is available
+Only for admin login
+Only for ESS login
+For both admin and ESS login
+"Submit attendance" screen
+=>55.Only for ESS login
+
+56.Is used by employee to update his/her punch
+Contains the Attendance Summary
+None of the above
+=>56.None of the above
+
+57.MSP stands for
+Manage Salary Process
+Manage Salary Payslip
+Multiple Shift Policy
+Missed punch
+=>57.Missed punch
+
+58."Manage shift" screen is used to
+Assign Shift
+Create/Edit Shift
+Both a & b
+=>58.Create/Edit Shift
+
+59.Employee shift can be changed
+For a particular date
+For a particular month
+For a defined time period
+All of the above
+=>59.All of the above
+
+60.Raw punches of employees can be checked in
+Daily Detail Attendance Report
+Employee Shift Report
+In/Out Activities Report
+Daily Basic Attendance Report
+
+=>60.In/Out Activities Report.
+
+61.Employee shift can be changed
+Only by the employee
+Only by the employee's manager
+By both employee and his manager
+=>61.Only by the employee's manager
+
+62.With reference to the remaining Leave balance, which of the following is not a Year-end process?
+Reversal
+Leave Encasement
+Lapse
+Carry Forward
+=>62.Reversal
+
+63. Late Coming/ Early Going duration is calculated from
+Employee shift start/end time only
+Employee grace time only
+Either 'a' or 'b' depending on policy that is configured
+=>63.Either 'a' or 'b' depending on policy that is configured
+
+64.Which of the following statement is correct for term ‘Accrued leave’?
+Leave balance that is utilized.
+Leave Balance that is to be carry forwarded.
+Leave balance generated based on the Leave Policy.
+Leave balance generated based on the manually uploaded balance.
+=>64.leave balance generated based on the Leave Policy
+
+65.Identify the correct scenario for Sandwich Policy when Saturday & Sunday are week-off:
+Full Day Present on Friday and Full Day Leave on Monday
+Full Day Leave on Friday and Full Day Present on Monday
+Full Day Present on Friday and Full Day Present on Monday
+Full Day Leave On Friday and Full Day Leave on Monday
+=>65.Full Day Leave on Friday and Full Day Leave on Monday.
+
+
+
+
+
+66.The purpose of 'WEF ' in salary master is
+To identify the salary process date
+To identify the salary changes
+To identify the DOJ
+=>66.to identify the salary changes.
+
+67.Why does a employer provide Compensatory off?
+As employee is a new joiner.
+As employee is on a notice period.
+As a compensation due to employees regularity.
+As employee worked on a holiday or weekend.
+=>67.As employee worked on a holiday or weekend.
+
+68.Which of the following is a Statutory report for leaves?
+Leave Availed Report
+Leave History Report
+Leave Register Form 15
+Leave Statutory Report
+=>68.Leave Register Form 15
+
+69.In which screen, we can define Holiday/s of the year?
+Financial Year
+Calendar
+Months
+=>69.Calendar
+
+70.PF stands for
+Provident Fund
+Pension Fund
+Provision Fund
+Profession Fund
+=>70.Provident Fund
+
+71.Which screen is utilized when we don't want to deduct tax for a particular employee?
+Stop tax deduction
+Stop Payment
+=>71.Stop tax deduction
+
+72.If we want to add variable monthly incentive then which screen is useful?
+Salary Process
+Payment/Deduction/Claim Screen
+Leave Encashment
+Attendance Regularisation
+=>72.Payment/Deduction/Claim Screen
+
+73.Grey colour of the month in "Salary Process" screen indicates
+Salary for that month is not finalised
+Salary for that month is not processed
+Salary for that month is finalised
+None of the above
+=>73.Salary for that month is not processed
+
+
+
+
+
+74."Stop Payment" screen can be used to
+Stop salary process for an employee
+Stop bank payment for an employee
+Both a & b
+=>74.Both a & b
+
+75.Off cycle payment process works
+Based on particular date
+Based on particular month
+All of the above
+=>75.based on particular date
+
+76.Is it possible to generate the Payslip with IT statement?
+Yes
+No
+=>76.yes
+77.Orange colour of the month in "Salary Process" screen indicates
+Salary for that month is not processed
+Salary for that month is not finalised
+Salary for that month is finalised
+None of the above
+=>77.Salary for that month is not finalised
+
+78.Green colour of the month in "Salary Process" screen indicates
+Salary for that month is not processed
+Salary for that month is not finalised
+Salary for that month is finalised
+None of the above
+=>78.Salary for that month is finalised
+
+79.The file that can be uploaded on Government portal to submit PF contribution is
+PF Report
+ECR File
+PF Statement
+EPS Report
+=>79.ECR File
+
+80.In Salary Process screen, when we are using the Import Employee from Excel feature then which data is required to upload?
+Name of the employee
+Empcode of employee
+Both
+=>80.Empcode of employee
+
+81.The deduction ratio (%) of employee and employer for PF is decided by
+The Company
+The Government
+Both a & b
+=>81.The Government
+
+82.How much is EPF contribution?
+3.67%
+8.33%
+12%
+24%
+=>82.12%
+
+83.What is the Maximum PF wage limit?
+12500
+15000
+18000
+20000
+=>83.15000
+
+84.How much is EPS contribution?
+3.67%
+8.33%
+12%
+No limit
+=>84.8.33%
+
+85.Which of the following is not a type of Arrears?
+Reimbursement
+Attendance
+Increment
+Overtime
+=>85.Reimbursement
+
+86Which of the following Payslip will generate for resigned employee?
+Salary Payslip
+OffCycle Payslip
+F&F slip
+None of the above
+=>86.F&F slip
+
+87.Frequency of the payroll generation
+Weekly
+Monthly
+Daily
+Any of the above
+=>87.Any of the above
+
+88.'Take home salary' means
+Gross Salary
+Net Salary
+Total earning
+Total deduction
+=>88.Net Salary
+
+89.'Gross salary' means
+Net Salary
+Take Home salary
+Total earning
+Total deduction
+=>89.Total earning
+
+90.Statutory deduction, PT stands for
+Provisional Tax
+Provident tax
+Professional Tax
+Property tax
+=>90.Professional Tax
+
+
+91.Statutory deduction, TDS stands for
+Tax Depreciated at Source
+Tax Deducted at Source
+Tax Deducted by State
+Tax Depreciated by State
+=>91.Tax Deducted at Source
+
+92.In the term Payroll JV; 'JV' stands for
+Journal Voucher
+Journal Venture
+Job Voucher
+Job Venture
+=>92.Journal Voucher
+
+93.Payroll JV can be generated
+Once the salary is processed
+Once the salary is transfered
+Once the salary is finalised
+Any of the above option
+=>93.Once the salary is finalised
+
+94.After which stage, Salary Payslip will be visible to ESS in Mobile App?
+NOT GENERATED
+NOT-FINALIZED
+FINALIZED
+APPROVED
+=>94.FINALIZED
+
+95.Which report is useful for Finance team to update salary data in their Accounting software?
+Salary Register
+Payroll JV
+Consolidated Register
+Payroll Reconciliation report
+=>95.Payroll JV
+
+96.Income tax amount is calculated based on?
+YTD Earning + Arrears
+YTD Earning + Reimbursements
+YTD Earning + Projection of remaining months.
+None of the above
+=>96.YTD Earning + Projection of remaining months
+
+97.UAN stands for
+Unique Access Number
+Unique Account Number
+Universal Account Number
+Universal Access Number
+=>97.Universal Account Number.
+
+98.NPS stands for
+National Pension System
+New Pension System
+National Pension Scheme
+New Pension Scheme
+=>98.National Pension System
+
+
+99.Which screen is useful to create the off cycle date?
+Off cycle process
+Salary Process
+Months
+Financial Year
+=>99.Off cycle process
+
+100.The file that can be uploaded on Government portal to submit ESI contribution is
+ESIC form 7
+ESIC Uploadable file
+ESI Report
+
+=>100.ESIC Uploadable File
+
+101.EPS stands for
+Employee Pension System
+Employee Pension Scheme
+Earning Pension Scheme
+Earning Pension System
+=>101.Employee Pension Scheme
+
+
+102.Which of the following is correct method to calculate In-hand salary?
+Total Earning + Total Arrears
+Total Earning + Total Deduction
+Total Earning - Total Deduction
+Total Arrears - Total Deduction
+=>102.Total Earning - Total Deduction
+
+
+103.ESIC stands for
+Employee Standard Income Corporation
+Employee Standard Insurance Corporation
+Employee State Insurance Corporation
+Employee State Income Corporation
+=>103.Employee State Insurance Corporation
+
+104.Which of the following is a CTC Reimbursement component?
+Medical Allowance
+Books & Periodicals
+Office Stationary expenses
+All of the above
+=>104.All of the above
+
+105.Which of the following is a Non-CTC Reimbursement component?
+
+Uniform Allowance
+Mobile Phone Bill Reimbursement
+HRA
+All of the above
+
+=>105.All of the above
+
+
+
+
+106.In which screen, all the approved claims & pending for payment, can be reflected for the Finance Team for payment?
+Travel Expense
+Travel Application
+Payment Batch
+Claim/Mileage Rate Setup 
+=> 106.Payment Batch
+107.Once the travel application is approved
+Attendance of the employee is reflected by default
+Employee has to punch his attendance
+Either 'a' or 'b' depending on company policy
+=>107.Either 'a' or 'b' depending on company policy
+
+108.Review cycle is to be initiated by
+Admin login
+ESS login
+Both Admin & ESS login
+=>108.Admin login
+
+109.Employee can update his/her review in 'Review' screen
+Anytime during the month
+On a particular date
+Only after the review cycle is initiated
+Anytime during the week
+=>109.Only after the review cycle is initiated
+
+110."KRA" is an abbreviation for
+Key Result Analysis
+Key Responsibility Area
+Key Responsibility Analysis
+None of the above
+=>110.Key Responsibility Area
+
+
+111."KPI" is an abbreviation for
+Key Performance Indicator
+Key Performance Inspection
+Key Potential Indicator
+Key Potential Inspection
+=>111.Key Performance Indicator
+
+112."OKR" is an abbreviation for
+Objectives and Key Responsibility
+Objectives and Key Results
+Organization Key Results
+Organization Key Responsibility
+=>112.Objectives and Key Results
+
+113.Goals can be created in which of the following ways
+Auto - Creation
+Manual Creation
+All of the above
+=>113.All of the above
+
+
+
+
+
+114.Which of the following frequency is available for Review Cycle?
+Monthly
+Quarterly
+Annually
+All of the above
+=>114.All of the above
+
+115.Which of the following option is not available for Continuous Feedback?
+Everyone can give to Everyone
+Manager can give to Employee
+Employee can give to Manager
+Employee can give to Company
+=>115.Employee can give to Company
+
+116.Employee can raise a complain/issue in FactoHR using
+Employee Module
+Instant help
+Configuration Wizard
+Support Ticket
+=>116.Support Ticket
+
+117.Can an employee use  "How is your mood today"  multiple times in a day?
+Yes
+No
+=>117.No
+
+118.Which screen will be utilized by a manager to submit Vacancy in his/her department?
+Create Job/Openings
+My interviews
+Manpower Requisition
+List of Openings
+=>118.Manpower Requisition
+
+119.Which of the following is the final stage of an candidate's application, which is shortlisted & candidate has agreed for the job?
+
+Offered & Rejected
+Offered & Accepted
+Reject/Not a fit
+On hold
+=>119.Offered & Accepted
+
+120.In factoHR, Write 1st mode of punch here
+=>120.Biometric
+
+ 
+121.In factoHR, Write 2nd mode of punch here
+=>121.Mobile App.
+
+122.In factoHR, Write 3rd mode of punch here
+=>122.Online punch 
+
+123.What is the purpose of the "Start Up" page in FactoHR
+=>123.factoHR is to guide users through initial setup and configuration of the system.
+
+
+124.How does "How is your mood today" help in HR
+=>124.HR monitor employee sentiment and engagement, allowing them to identify 	workplace issues, improve employee satisfaction, and take timely actions to boost morale.
+
+125.Which are 5 Pre-Payroll Activities? Write 1st Activity
+=>125.Financial Year & Months
+
+126.Which are 5 Pre-Payroll Activities? Write 2nd Activity
+=>126.Calendar
+
+127.Which are 5 Pre-Payroll Activities? Write 3rd Activity
+=>127.Employee Enrolment
+
+128.Which are 5 Pre-Payroll Activities? Write 4th Activity
+=>128.Salary Master
+
+129.Which are 5 Pre-Payroll Activities? Write 5th Activity
+=>129.PF and ESIC
+
+130.Which are 5 Post-Payroll Activities? Write 1st Activity
+=>130.Salary Process
+
+131.Which are 5 Post-Payroll Activities? Write 2nd Activity
+=>131.Salary Verification
+
+132.Which are 5 Post-Payroll Activities? Write 3rd Activity
+=>132.Salary Finalization
+
+133.Which are 5 Post-Payroll Activities? Write 4th Activity
+=>133.Bank Statement & JV Files
+
+134.Which are 5 Post-Payroll Activities? Write 5th Activity
+=>134.release payslips
+
+135.What happens to the unused leave balance, at leave year-end? There are 3 Leave Year-end processes. Write 1st process
+=>135.Carry Forward
+
+
+136.What happens to the unused leave balance, at leave year-end? There are 3 Leave Year-end processes. Write 2nd process
+=>136.Lapse
+
+137.What happens to the unused leave balance, at leave year-end? There are 3 Leave Year-end processes. Write 3rd process
+=>137.Leave Encashment
+
+138.CTC full form
+=>138.Cost to Company
+
+139.Write 3 stages of Interview process. For eg, Face to Face Interview. Write 1st here
+=>139.Initial Screening
+
+140.Write 3 stages of Interview process. For eg, Face to Face Interview. Write 2nd here
+=>140.Technical Interview
+
+
+141.Write 3 stages of Interview process. For eg, Face to Face Interview. Write 3rd here
+=>141.HR Interview
+
+ 142.Acknowledgement uses for 
+=>142.Acknowledgement is used to show that something has been received.
+
+143.Survey uses 
+=>143.Collecting feedback or opinions from employees.
+
+144.Which of the following option not supported in payment batch?
+Salary
+Off Cycle
+Reimbursement
+=>144.Cash
+
+Bank Transfer
+Check
+NEFT
+145.Travel mode
+International
+Local
+Business
+Outstation
+all of above
+=>145.all of above
+
+146.Green color indicates during salary process
+Generated
+Not Generated
+Finalized
+Not - Finalized
+=>146.Finalized
+
+147.Orange color indicates during salary process
+Generated
+Not Finalized
+Finalized
+Not Generated
+=>147.Not Finalized
+
+149.Salary Process can be further categorized
+All Employees
+Particulate employee
+Particulate Categories
+Import from Excel
+All of Above
+=>149.All of Above
+
+150.The background process cannot be available for   
+Initiate review
+Salary process
+submit attendance
+Payment batch
+=>150.submit attendance
+      
+148.Not Finalized
