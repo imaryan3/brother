@@ -1,0 +1,20 @@
+other allowance
+MONTHLY_GROSS_FULL - BASIC_FULL - DA_FULL - HRA_FULL - CONV_FULL - SPECIAL_FULL - MEDICAL_ALLOWANCE_FULL - EDUCATION_ALLOWANCE_FULL - LEAVE_TRAVEL_ALLOWANCE_FULL
+
+ctc
+MONTHLY_GROSS_FULL + EMPLOYER_PF_CTC_FULL  + EMPLOYER_ESI_CTC_FULL  + GRATUITY_CONTRIBUTION_CTC_FULL  + BONUS_CTC_FULL 
+
+employer pf
+if(IsEligibleDefine("pf"), (MIN(15000, BASIC_FULL + DA_FULL)) * Percentage(GetPFPerc()), 0.0)
+
+gratuty
+(BASIC_FULL+DA_FULL) * 0.0481
+
+bonus
+IF(BASIC_FULL < 21000.0, MIN(11989.9, BASIC_FULL), 0) * 0.0833
+
+employee pf
+if(IsEligibleDefine("pf"), (MIN(15000, BASIC_FULL + DA_FULL)) * Percentage(GetPFPerc()), 0.0)
+
+tax
+LookupStatutory("ProfTax","Sep","State","='" + IF(HasValue(StateName),StateName,EmployerStateName) + "'"  , "Minimum","<=" + ( BASIC_FULL + BONUS_FULL + CONV_FULL + DA_FULL + EARLY_GOING_DEDUCTION_FULL + EDUCATION_ALLOWANCE_FULL + EXGRATIA_FULL + HRA_FULL + LATE_COMING_DEDUCTION_FULL + LEAVE_ENCASHMENT_FULL + LEAVE_TRAVEL_ALLOWANCE_FULL + MEDICAL_ALLOWANCE_FULL + OTHER_ALLOWANCE_FULL + OTHER_INCOME_FULL + SPECIAL_FULL )  , "Maximum", ">=" + ( BASIC_FULL + BONUS_FULL + CONV_FULL + DA_FULL + EARLY_GOING_DEDUCTION_FULL + EDUCATION_ALLOWANCE_FULL + EXGRATIA_FULL + HRA_FULL + LATE_COMING_DEDUCTION_FULL + LEAVE_ENCASHMENT_FULL + LEAVE_TRAVEL_ALLOWANCE_FULL + MEDICAL_ALLOWANCE_FULL + OTHER_ALLOWANCE_FULL + OTHER_INCOME_FULL + SPECIAL_FULL )  , "AgeFrom", "<=" + Age, "AgeTill", ">=" + Age  , "Gender", "='" + IF(GenderName = "","Male",GenderName) + "'")  / if (LookupStatutory("ProfTax","SalaryFromMonth","State","='" + IF(HasValue(StateName),StateName,EmployerStateName) + "'", "Gender", "='" + IF(GenderName = "","Male",GenderName) + "'","AgeFrom", "<=" + Age, "AgeTill", ">=" + Age) <> 0, 6, 1)
